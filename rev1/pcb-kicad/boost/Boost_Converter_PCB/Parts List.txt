@@ -1,0 +1,23 @@
+C1	10nF	
+C2	1nF	
+C3	100uF	
+D1	Green LED	
+D2	SFA1608G		
+L1	130uH	
+Q1	IRFP450	
+R1	15k	
+R2	4.7k	
+R3	15k	
+R4	68	
+R5	15k	
+R6	15k	
+R7	12k	
+R8	10k	
+R9	1M	
+R10	1k	
+U1	NE555	
+U2	LM311	
+W1	Ground (In)	
+W2	12V in	
+W3	Ground (Cap Bank)	
+W4	Capacitor Bank +	
