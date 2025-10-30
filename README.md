@@ -1,5 +1,6 @@
 # High Speed Photography Unit V1
 ![balloon-pop](https://github.com/yiakonale/high-speed-photography-v1/blob/main/media/DSC00332.jpg)
+![test](/media/DSC00332.jpg)
 
 The problem with capturing high-speed photos boils down to how fast the camera can sample the subject. In nearly all cameras digital or analog, it comes down to the shutter speed. The shutter speed dictates how long the sensor (analog or digital) is exposed for, and therefore the "speed" of the photo. Regular digital cameras can expose a photo to 1/250 or 1/500 of a second. The fastest camera I own is an SLR with a mechanical shutter that can do 1/4000 of a second, which means that the film is exposed for 250us. One can optimize for faster and faster shutter speeds but the next bottleneck becomes the sensor itself. The less time you expose for, the less light the sensor can absorb. You can optimize for maximum light sensitivity but that's when the cost also skyrockets.
 
